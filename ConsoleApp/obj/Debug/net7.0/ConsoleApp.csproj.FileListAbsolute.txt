@@ -1,0 +1,17 @@
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/arsendeputat/RiderProjects/ChinookCustomerManager/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CopyComplete
